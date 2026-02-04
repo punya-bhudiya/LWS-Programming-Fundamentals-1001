@@ -2,7 +2,7 @@
 LWS – Programming Fundamentals 1001
 Module: First Python Program
 
-Author: Bhudiya Punya
+Author: Punya Bhudiya
 Tutor at LearnWithStriver (LWS)
 
 Purpose:
@@ -30,7 +30,7 @@ print("Hello, World!")
 # PRINTING MULTIPLE LINES
 # ==================================================
 
-print("Welcome to Python")
+print("Learn With Striver")
 print("Welcome to LWS – Programming Fundamentals 1001")
 
 # Python executes these lines in order.

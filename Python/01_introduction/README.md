@@ -12,7 +12,7 @@ This section is intentionally **concept-focused** and does not assume any prior 
 
 ---
 
-## 📚 Files in This Section
+## Files in This Section
 
 - `introduction.py`  
   Introduces programming and Python at a conceptual level.
@@ -25,7 +25,7 @@ This section is intentionally **concept-focused** and does not assume any prior 
 
 ---
 
-## 🎯 Learning Outcome
+## Learning Outcome
 
 After completing this section, learners will:
 - Understand the purpose of programming

@@ -2,7 +2,7 @@
 LWS – Programming Fundamentals 1001
 Module: Python Introduction
 
-Author: Bhudiya Punya
+Author: Punya Bhudiya
 Tutor at LearnWithStriver (LWS)
 
 Purpose:
