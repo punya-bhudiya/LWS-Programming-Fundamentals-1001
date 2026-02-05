@@ -1,30 +1,30 @@
-# Python – Intermediate Level
+# Python – Beginner Level
 
 This section is part of the **LWS – Programming Fundamentals 1001** series.
 
-The intermediate level focuses on **logical control**, **code structure**, and **reusability**.  
-Learners move from basic syntax to writing meaningful, structured programs.
+The beginner level focuses on building **strong core foundations** in Python.
+Every concept is explained from first principles and reinforced with examples.
 
 ---
 
 ## 📚 Topics Covered
 
-- Conditional Statements
-- Loops
-- Functions
-- Variable Scope
-- Modules and Code Organization
+- Variables
+- Data Types
+- Input & Output
+- Type Casting
+- Operators
 
 ---
 
 ## 🎯 Learning Outcomes
 
 After completing this section, learners will:
-- Control program flow using conditions and loops
-- Write reusable functions
-- Understand variable scope
-- Organize code using modules
-- Think logically while solving problems
+- Understand how data is stored and manipulated
+- Work confidently with Python data types
+- Accept user input and display output
+- Convert data between types safely
+- Use operators to build expressions
 
 ---
 
